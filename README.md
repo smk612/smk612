@@ -17,8 +17,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
-
+<img align="left" alt="Python" height="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="Tableau" height="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png" />
 
 
 <br />
@@ -27,7 +27,8 @@
 ---
 
 
-<img align="left" alt="Soumik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Soumik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=smk612&show_icons=true&hide_border=true" />
+
 
 [comp_website]: https://www.tcs.com/
 [linkedin]: https://www.linkedin.com/in/smk612/
