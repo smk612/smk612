@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />
+<img align="left" alt="Python" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
 
 
 
