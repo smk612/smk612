@@ -38,7 +38,7 @@
 ---
 
 
-<img align="left" alt="Soumik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=smk612&show_icons=true&hide_border=true" />
+<img align="left" alt="Soumik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=smk612&show_icons=true&hide_border=true" />
 
 
 [comp_website]: https://www.tcs.com/
