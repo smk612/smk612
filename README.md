@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a Data Analyst at [Tata Consultancy Services][comp_website]
 - 🌱 I’m currently learning DL, GraphQL
 - 👯 I’m looking to connect with like minded people
-- 🥅 2020 Goals: Finish my backlog of things to learn
+- 🥅 2021 Goals: Finish my backlog of things to learn
 - ⚡ Fun fact: I love to read and lately am becoming a hoarder
 
 ### Connect with me:
